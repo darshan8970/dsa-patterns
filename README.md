@@ -24,7 +24,7 @@ with a short write-up: the pattern, the approach, complexity, and what I got wro
 <!--PROGRESS_TABLE_START-->
 | Pattern | Solved | Total | Progress |
 |---|---|---|---|
-| Arrays & Hashing | 1 | 9 | █░░░░░░░░░ 11% |
+| Arrays & Hashing | 0 | 9 | ░░░░░░░░░░ 0% |
 | Two Pointers | 0 | 5 | ░░░░░░░░░░ 0% |
 | Sliding Window | 0 | 6 | ░░░░░░░░░░ 0% |
 | Stack | 0 | 6 | ░░░░░░░░░░ 0% |
@@ -40,7 +40,7 @@ with a short write-up: the pattern, the approach, complexity, and what I got wro
 | Intervals | 0 | 6 | ░░░░░░░░░░ 0% |
 | Math & Geometry | 0 | 8 | ░░░░░░░░░░ 0% |
 | Bit Manipulation | 0 | 7 | ░░░░░░░░░░ 0% |
-| **Total** | **1** | **150** | ░░░░░░░░░░ 1% |
+| **Total** | **0** | **150** | ░░░░░░░░░░ 0% |
 <!--PROGRESS_TABLE_END-->
 
 *This table is auto-updated by [`scripts/update_progress.py`](scripts/update_progress.py)
