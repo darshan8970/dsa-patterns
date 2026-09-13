@@ -2,7 +2,7 @@
 
 ## Problems solved here
 
-| # | Problem |
-|---|---|
-| 217 | [Contains Duplicate](problems/217-contains-duplicate) |
+| # | Problem | Difficulty | Notes |
+|---|---|---|---|
+| 217 | [Contains Duplicate](problems/217-contains-duplicate) | Easy | Hash set for O(1) duplicate lookup |
 
