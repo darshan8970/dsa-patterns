@@ -1,5 +1,9 @@
 # 242.  Valid Anagram
 
+# Problem
+
+Given two strings, check if they contain the same characters with the same frequencies. The order of the characters can be different.
+
 # Pattern
 
 **Arrays & Hashing.** Whenever a problem asks whether two strings contain the same characters with the same frequency, use a HashMap to count and compare them.

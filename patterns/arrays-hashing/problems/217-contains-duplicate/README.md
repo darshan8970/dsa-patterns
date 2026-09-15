@@ -1,5 +1,9 @@
 # 217. Contains Duplicate
 
+# Problem
+
+Given an array of numbers, return True if any number appears more than once. Otherwise, return False.
+
 # Pattern
 
 **Arrays & Hashing.** Whenever a problem asks whether an element has appeared before, use a HashSet for fast lookup.
