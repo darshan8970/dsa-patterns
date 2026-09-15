@@ -1,4 +1,4 @@
-# 1. Two Sum
+# 01. Two Sum
 
 # Problem
 
