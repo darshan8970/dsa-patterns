@@ -7,5 +7,5 @@
 | 217 | [Contains Duplicate](problems/217-contains-duplicate) | Easy | Hash set for O(1) duplicate lookup |
 | 242 | [Valid anagram](problems/242-valid-anagram) | Easy | Same characters + same frequencies = anagram; use HashMap for counting. |
 | 01 | [Two Sum](problems/01-two-sum) | Easy | Find the number needed and check if it was already seen using HashMap |
-| 49 | [Group Anagrams](problems/49-group-anagrams) | Medium | Sort each string to create the same key for anagrams, then group them using a HashMap |
+| 49 | [Group Anagrams](problems/49-group-anagrams) | Medium | Use character frequency counts as a key to group anagrams with a HashMap |
 
