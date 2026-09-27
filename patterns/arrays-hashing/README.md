@@ -8,4 +8,5 @@
 | 242 | [Valid anagram](problems/242-valid-anagram) | Easy | Same characters + same frequencies = anagram; use HashMap for counting. |
 | 01 | [Two Sum](problems/01-two-sum) | Easy | Find the number needed and check if it was already seen using HashMap |
 | 49 | [Group Anagrams](problems/49-group-anagrams) | Medium | Use character frequency counts as a key to group anagrams with a HashMap |
+| 347 | [Top K Frequent Elements](problems/347-top-k-frequent-elements) | Medium | Count frequencies, then use Bucket Sort to get the most frequent elements |
 
